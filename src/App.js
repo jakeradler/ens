@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Hey! This is my crypto portfolio.
+         Hey! I'm still developing this! Check out my website below.
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Click Here
+          Right Here!
         </a>
       </header>
     </div>
